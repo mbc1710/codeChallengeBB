@@ -1,9 +1,14 @@
 # codeChallengeBB
 code challenge entregables
 
-1.- comandos para crear imagen del api, cambiar el valor {sustituir ruta} por la de su local:
-  cd {sustituir ruta}/codeChallenge/docker/banco-base/
-  docker-compose build --no-cache
+Generar el jar del proyecto despues de clonar e importarlo en el IDE (no me dejo subir el archivo ya que pesaba mas de 70MB)
+-codeChallenge
+  -codeChallenge (codigo java del API)
+**** Colocar el jar en la carpeta {sustituir ruta}/codeChallenge/docker/banco-base/    *************
+
+1.- comandos para crear imagen del api, cambiar el valor {sustituir ruta} por la de su local: \n
+  cd {sustituir ruta}/codeChallenge/docker/banco-base/ \n
+  docker-compose build --no-cache \n
 
 2.- Ejecutar el comando para levantar los contenedores en la siguiente ruta: {sustituir ruta}/codeChallenge/docker/
   cd ..
