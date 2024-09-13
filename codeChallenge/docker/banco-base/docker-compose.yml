@@ -1,0 +1,6 @@
+version: '3.6'
+services: 
+  banco-base-web-api:
+    image: 'banco-base-web-api:1.0.0'
+    build:
+      context: ./
