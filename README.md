@@ -21,3 +21,4 @@ el codigo fuente esta en esta carpeta:
     - sql (script base de datos)
     - banco-base (archivos para imagen de API)
     
+![image](https://github.com/user-attachments/assets/b6e5bf00-430b-43aa-9dfa-b861e1668265)
